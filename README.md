@@ -4,7 +4,7 @@
 
 [source](/check_port.sh)
 
-with this method you can find which process is running on specif port
+with this method you can find which process is running on specific port
 
 paste source into your ```.bashrc``` or ```.bash_alias```
 
